@@ -16,6 +16,7 @@ const Navcart = () => {
         <Link class="nav-link" to="/search">Search</Link>
         <Link class="nav-link" to="/delete">Delete</Link>
         <Link class="nav-link" to="/viewcart">View all</Link>
+        <Link class="nav-link" to="/viewlive">View live</Link>
       </div>
     </div>
   </div>
