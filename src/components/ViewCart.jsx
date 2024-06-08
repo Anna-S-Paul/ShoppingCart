@@ -19,7 +19,7 @@ const ViewCart = () => {
 
                                     <div class="card">
                                         <div class="card-body" >
-                                            <img src={value.image} class="card-img-top" alt="..." height="250px"></img>
+                                            <img src={value.image} class="card-img-top" alt="..."></img>
                                             <h5 class="card-title">{value.id}</h5>
                                             <h5 class="card-title">{value.title}</h5>
                                             <h5 class="card-title">{value.price}</h5>
